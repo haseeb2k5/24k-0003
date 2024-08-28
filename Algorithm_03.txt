@@ -1,0 +1,11 @@
+Ask the user to enter the first number "number1"
+Ask the user to enter the second number "number2"
+Initialize the variable "answer" for displaying the answer
+Ask the user to enter an operator "operator"
+If operator is equal to '+', Set answer = number1 + number2
+Else if operator is equal to '-', Set answer = number1 - number2
+Else if operator is equal to '*', Set answer = number1 * number2
+Else if operator is equal to '/', Set answer = number1 / number2
+Else if operator is equal to '%', Set answer = number1 % number2
+Else Display "Invalid Operator!"
+Display answer for the user
