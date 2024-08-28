@@ -1,0 +1,14 @@
+Ask the user to enter any number 'N' between 1 and 12
+If N is equal to 1, Display "January" for the user
+Else If N is equal to 2, Display "February" for the user
+Else If N is equal to 3, Display "March" for the user
+Else If N is equal to 4, Display "April" for the user
+Else If N is equal to 5, Display "May" for the user
+Else If N is equal to 6, Diplay "June" for the user
+Else If N is equal to 7, Display "July" for the user
+Else If N is equal to 8, Display "August" for the user
+Else If N is equal to 9, Display "September" for the user
+Else If N is equal to 10, Display "October" for the user
+Else If N is equal to 11, Display "November" for the user
+Else If N is equal to 12, Display "December" for the user
+Else Display "Invalid Input or Number out of range!"
