@@ -1,0 +1,7 @@
+Ask the user to enter number 'N'
+Ask the user to enter number 'n'
+Check if (N % n) == 0?
+    If YES, Display "N is a divisor of n!" for the user
+        Check if (N % 2) == 0?
+            If YES, Display "N is an Even Number!" for the user
+    If NO, Display "N is not a divisor of n!" for the user
