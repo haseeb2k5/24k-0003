@@ -1,0 +1,16 @@
+START
+
+INPUT num1
+INPUT num2
+INPUT operator
+
+SET answer to 0
+
+IF operator == '+' THEN
+    SET answer to num1 + num2
+ELSE IF operator == '-' THEN
+    SET answer to num1 - num2
+
+PRINT answer
+
+END
